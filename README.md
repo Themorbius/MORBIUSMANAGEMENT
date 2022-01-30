@@ -7,10 +7,10 @@
   <a href="https://github.com/proboyop/chodu/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/44870675794b9089a4fa8.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Hitler_fed_owner"><img src="https://telegra.ph/file/50a9b077e58caf7f52e2c.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using Rocks Alexa, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using DR VICTOR BOT, That is the greatest pleasure we have !
 
 ## Avaiilable on Telegram as [@W2HSUPPORT](https://t.me/Victor_management_bot)
 
